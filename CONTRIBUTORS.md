@@ -1,6 +1,7 @@
 Add entry to the list below as per the format specified in README.md
 
 ### Contributors List
+-   [Preksha Jagetiya](https://github.com/prekshajagetiya123/)
 
 -   [Anubhav Jain](https://github.com/develop-build/)
 
@@ -38,4 +39,4 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Pareksha Manchanda](https://github.com/pareksha)
 
--   [Preksha Jagetiya](https://github.com/prekshajagetiya123/)
+
